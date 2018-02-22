@@ -85,7 +85,8 @@ For debugging and maintenance purposes you may want access the containers shell.
 docker exec -it (whatever your container name is e.g. cpuminer) bash
 ```
 
-# References
+# Donation
 
+Bitcoin: 1JpKyCj6edEunhTsQNumsL5JDR6dMSqav5
 
 
