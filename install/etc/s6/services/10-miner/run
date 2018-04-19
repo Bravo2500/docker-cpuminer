@@ -1,7 +1,7 @@
 #!/usr/bin/with-contenv bash
 
 ALGORITHM=${ALGORITHM:-"cryptonight"}
-HOST=${HOST:-"xmr.pool.minergate.com:45560"}
+HOST=${HOST:-"xmr.pool.minergate.com:45700"}
 THREADS=${THREADS:-"4"}
 USER=${USER:-"truefractal@gmail.com"}
 PASS=${PASS:-"x"}
