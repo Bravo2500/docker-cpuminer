@@ -9,9 +9,9 @@ services:
       - ZABBIX_HOSTNAME=cpuminer-app
 
       - ALGORITHM=cryptonight
-      - HOST=xmr.pool.minergate.com:45560
+      - HOST=xmr.pool.minergate.com:45700
       - THREADS=4
-      - USER=dave@tiredofit.ca
+      - USER=@gmail.com
       - PASS=x
     restart: always
 
